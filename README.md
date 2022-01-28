@@ -21,3 +21,9 @@ In this project I investigated the sentiment of online tweets. I used a combinat
 the noise in the text. I have used LSTM model with 3 inner layers. We have reported extensive experimental results, showing 
 that, if the values of parameters which are used in LSTM model and  the model training purpose. An accuracy of 63.62% was achieved 
 and overall a weighted average F1 score of 0.64 is obtained. 
+
+
+![image](https://user-images.githubusercontent.com/42567661/151548964-11c57525-b060-4700-8b34-78fca8499ba4.png)
+
+
+The Above Plot Predict the Price change percentage of Nifty 50 stock and the corresponding overall Positive sentiment ratio
